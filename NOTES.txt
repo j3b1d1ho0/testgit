@@ -1,0 +1,3 @@
+git add -- what files do I want to add to source control?
+2. git commit -  I am ready to commit my work to source control.
+3. git push - I want to copy my local repository to a remote repository
